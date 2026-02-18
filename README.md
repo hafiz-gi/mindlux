@@ -5,6 +5,8 @@ Explore guided meditations, breathing exercises, sleep stories, and soothing sou
 
 Track your progress, build daily streaks, set reminders, and create healthy habits that last. Enjoy a beautiful dark interface, offline downloads, and personalized recommendations that fit your mood and schedule. Whether you’re managing anxiety, improving sleep, or simply seeking peace, Mindlux brings calm, clarity, and balance to your everyday life — all in one simple, elegant app designed for your well-being.
 
+
+
 <img src="images/mindlux.png"/>
 <img src="images/mindlux mockups.png"/>
 
